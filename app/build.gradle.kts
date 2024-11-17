@@ -262,5 +262,5 @@ dependencies {
     implementation(libs.toaster)
     implementation(libs.permissions)
 
-    implementation(libs.json5)
+    implementation(libs.system )
 }
